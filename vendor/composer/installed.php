@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'geo21droid/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'hcodebr/ecommerceweb',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '25619f9348707c98e8aecc2b965ae70f82b8b274',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'geo21droid/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'hcodebr/ecommerceweb' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '25619f9348707c98e8aecc2b965ae70f82b8b274',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

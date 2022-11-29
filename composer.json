@@ -1,5 +1,5 @@
 {
-    "name": "geo21droid/ecommerce",
+    "name": "hcodebr/ecommerceweb",
     "authors": [
         {
             "name": "Geovane dias",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
